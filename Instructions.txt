@@ -1,8 +1,0 @@
-Here are the instructions to run the Toyota Corolla Price Predictor app - 
-
-1. Make sure you have all libraries in ML_Regression_Analysis.ipynb and the regression_app.py downloaded. You can use `pip install` for the following libraries if not installed: `pip install streamlit scikit-learn pandas numpy joblib sklearn xgboost`
-
-	
-2. Run the ML_Regression_Analysis.ipynb file first to get the gb_model.pkl file. If the gb_model.pkl is already in your path, then there is no need to run ML_Regression_Analysis.ipynb. 
-
-3. Run the regression_app.py file. Use the following command to run the regression_app.py file: `python -m streamlit run regression_app.py` 
